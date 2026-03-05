@@ -92,6 +92,8 @@ const sakin = {
 
 > A comprehensive campus ecosystem connecting students
 
+**🔗 [Live Demo](https://sust-connect-eta.vercel.app/)**
+
 **🌟 Key Features:**
 
 - 🔐 Secure JWT authentication with OTP
@@ -117,6 +119,8 @@ const sakin = {
 </div>
 
 > GPS-powered attendance tracking with 100m precision
+
+**🔗 [Live Demo](https://smart-attendance-system-u5hv.vercel.app/)**
 
 **🌟 Key Features:**
 
@@ -144,6 +148,8 @@ const sakin = {
 </div>
 
 > Modern healthcare appointment booking platform
+
+**🔗 [Live Demo](https://medicare-two-rosy.vercel.app/)**
 
 **🌟 Key Features:**
 
