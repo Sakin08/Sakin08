@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://mdsakin08.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/md-sohanoor-rahaman-sakin-7006b824b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/Sakin08"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://drive.google.com/drive/u/0/folders/1ombUDLQNjuZcMMupRx_ZPei8iay_9xF-"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" /></a>
 </p>
 
 </div>
@@ -37,6 +37,7 @@ const sakin = {
 
 🎯 **Mission:** Creating impactful solutions that solve real-world problems  
 🌱 **Currently Building:** SUST Connect, Smart Attendance, Healthcare Systems  
+📄 **Resume:** [View My CV](https://drive.google.com/drive/u/0/folders/1ombUDLQNjuZcMMupRx_ZPei8iay_9xF-)  
 ⚡ **Fun Fact:** I debug with console.log and I'm not ashamed!
 
 ---
@@ -246,6 +247,7 @@ const currentStatus = {
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-sohanoor-rahaman-sakin-7006b824b/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mdsakin08.vercel.app/)
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/u/0/folders/1ombUDLQNjuZcMMupRx_ZPei8iay_9xF-)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sakin08)
 
 <img src="https://komarev.com/ghpvc/?username=Sakin08&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="views" />
